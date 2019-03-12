@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.DS_Store": false,
+    "**/.git": false,
+    "**/.git/": true,
+    "**/.hg": false,
+    "**/.svn": false,
+    "**/.vscode": true,
+    "**/CVS": false,
+    "**/general.pem": true,
+    "**/package-lock.json": true,
+    "**/yarn.lock": true
+  }
+}
